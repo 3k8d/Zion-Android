@@ -1,6 +1,6 @@
 # Zion for Android
 
-VPN client for Android built on [sing-box](https://github.com/SagerNet/sing-box), a port of [Zion for Windows](https://github.com/3k8d/Zion-VPN-Launcher).
+VPN client for Android built on [sing-box](https://github.com/SagerNet/sing-box).
 
 ## Features
 
