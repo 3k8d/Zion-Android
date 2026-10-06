@@ -13,3 +13,6 @@ local.properties
 *.keystore
 *.jks
 keystore.properties
+
+# empty repo GitHub Desktop created inside the folder
+/Zion-Android/

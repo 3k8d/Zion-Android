@@ -2,6 +2,10 @@
 
 VPN client for Android built on [sing-box](https://github.com/SagerNet/sing-box).
 
+| | | |
+|---|---|---|
+| ![Connected](docs/screenshots/dashboard.png) | ![Servers](docs/screenshots/servers.png) | ![Settings](docs/screenshots/settings.png) |
+
 ## Features
 
 - Protocols: VLESS (Reality, TLS), Trojan, VMess, Shadowsocks, Hysteria2, TUIC, SOCKS5, HTTP
