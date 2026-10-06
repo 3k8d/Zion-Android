@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Launcher icon foreground: the Zion star (white, with a soft blue glow), inside the 66dp safe zone -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:pathData="M54,30 L74.8,66 L33.2,66 Z M54,78 L33.2,42 L74.8,42 Z"
+        android:strokeWidth="7"
+        android:strokeColor="#552F7BFF"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+    <path
+        android:pathData="M54,30 L74.8,66 L33.2,66 Z M54,78 L33.2,42 L74.8,42 Z"
+        android:strokeWidth="3.2"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+</vector>

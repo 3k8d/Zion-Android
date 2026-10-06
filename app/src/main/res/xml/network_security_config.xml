@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Plain HTTP is needed for the core's control API on 127.0.0.1 and for subscription links that start
+     with http:// (the Windows version accepts those too). Everything else is HTTPS anyway. -->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true" />
+</network-security-config>

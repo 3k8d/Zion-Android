@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark from the first frame: the app draws everything itself in Compose -->
+    <style name="Theme.Zion" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/zion_bg</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
